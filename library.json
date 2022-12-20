@@ -1,0 +1,24 @@
+{
+  "authors": [
+    {
+      "email": "andrew@bulletlogic.com",
+      "name": "Andrew DeLisa",
+      "url": "https://www.andrewdelisa.com"
+    }
+  ],
+  "dependencies": {
+    "abderraouf-adjal/Embedded Type-C PID": "^1.1.2"
+  },
+  "description": "A library for controlling PWM-based fans",
+  "frameworks": "arduino",
+  "homepage": "https://www.andrewdelisa.com",
+  "keywords": "fan, pwm, io, pid",
+  "license": "MIT",
+  "name": "PWMFan",
+  "platforms": "espressif32",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayan4m1/pwm-fan-control.git"
+  },
+  "version": "0.1.0"
+}
